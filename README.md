@@ -5,13 +5,12 @@
 
 - 🔭 I’m currently working on **Eatz**
 
-- 🌱 I’m currently learning **how to work with the google API**
+- 🌱 I’m currently learning **getting a qr scanning package working**
 
 - 💬 Ask me about **working with Flutter**
 
 - 📫 How to reach me **simeon.nieuwenhuys7@gmail.com**
 
-- ⚡ Fun fact **Stackoverflow is my savior**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
