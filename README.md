@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simeonnew&label=Profile%20views&color=0e75b6&style=flat" alt="simeonnew" /> </p>
 
-- 🔭 I’m currently working on **qr and search page front end Eatz**
+- 🔭 I’m currently working on **redesigning the whole theam of the app cause its too close to another one**
 
-- 🌱 I’m currently learning **nothing new**
+- 🌱 I’m currently learning **figma**
 
 - 💬 Ask me about **working with Flutter**
 
