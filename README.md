@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simeonnew&label=Profile%20views&color=0e75b6&style=flat" alt="simeonnew" /> </p>
 
-- 🔭 I’m currently working on **Eatz**
+- 🔭 I’m currently working on **qr and search page front end Eatz**
 
-- 🌱 I’m currently learning **getting a qr scanning package working**
+- 🌱 I’m currently learning **nothing new**
 
 - 💬 Ask me about **working with Flutter**
 
