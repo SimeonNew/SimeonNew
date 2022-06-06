@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **simeon.nieuwenhuys7@gmail.com**
 
+-most of my repos are private so sry but i'll make some public ones
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
