@@ -22,7 +22,6 @@
 alt="python" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simeonnew&show_icons=true&locale=en&layout=compact" alt="simeonnew" /></p>
--ps idk how to make it show the % of the private repositories
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simeonnew&" alt="simeonnew" /></p>
