@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simeonnew&label=Profile%20views&color=0e75b6&style=flat" alt="simeonnew" /> </p>
 
-- 🔭 I’m currently working on **mainly school but also image recognition lap timer and some frontend for eatz**
+- 🔭 I’m currently working on **mainly school but also image recognition lap timer and some backend for eatz**
 
-- 🌱 I’m currently learning **opencv**
+- 🌱 I’m currently learning **node.js**
 
 - 💬 Ask me about **working with Flutter**
 
