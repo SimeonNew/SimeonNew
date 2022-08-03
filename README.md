@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **mainly school but also image recognition lap timer and some backend for eatz**
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **golang**
 
 - 💬 Ask me about **working with Flutter**
 
